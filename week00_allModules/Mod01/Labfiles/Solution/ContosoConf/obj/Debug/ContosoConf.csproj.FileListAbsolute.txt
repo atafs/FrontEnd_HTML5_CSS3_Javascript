@@ -1,0 +1,4 @@
+C:\_HTML5TRAINING\Mod01\Labfiles\Solution\ContosoConf\bin\ContosoConf.dll
+C:\_HTML5TRAINING\Mod01\Labfiles\Solution\ContosoConf\bin\ContosoConf.pdb
+C:\_HTML5TRAINING\Mod01\Labfiles\Solution\ContosoConf\obj\Debug\ContosoConf.dll
+C:\_HTML5TRAINING\Mod01\Labfiles\Solution\ContosoConf\obj\Debug\ContosoConf.pdb

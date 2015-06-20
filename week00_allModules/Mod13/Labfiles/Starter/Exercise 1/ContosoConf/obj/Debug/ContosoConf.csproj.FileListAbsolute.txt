@@ -1,0 +1,5 @@
+C:\_HTML5TRAINING\Mod13\Labfiles\Starter\Exercise 1\ContosoConf\bin\ContosoConf.dll
+C:\_HTML5TRAINING\Mod13\Labfiles\Starter\Exercise 1\ContosoConf\bin\ContosoConf.pdb
+C:\_HTML5TRAINING\Mod13\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+C:\_HTML5TRAINING\Mod13\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
+C:\_HTML5TRAINING\Mod13\Labfiles\Starter\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb

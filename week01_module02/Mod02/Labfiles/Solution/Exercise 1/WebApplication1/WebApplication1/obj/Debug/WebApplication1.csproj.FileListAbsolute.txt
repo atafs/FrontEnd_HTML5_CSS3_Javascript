@@ -1,0 +1,12 @@
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\_TRAINING\Mod02\Labfiles\Solution\Exercise 1\ContosoConf\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\clouds\Drive Ilimitado\FrontEnd_MCSD_HTML_CSS_Javascript_backup\training\Mod02\Labfiles\Solution\Exercise 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,33 @@
+//MEU MAIL
+americo.fernandes
+
+//FORMADOR
+tiago.costa@outlook.com
+
+//ONEDRIVE CLOUD
+https://onedrive.live.com/?cid=47ab958884b39e14&id=47ab958884b39e14%21168454&ithint=folder,&authkey=!AB6uL8e-4X5Bqtg
+
+//LINGUAGEM: framework da microsoft (compila para javascript)
+http://www.typescriptlang.org/
+
+//VIRTUAL MACHINE
+HyperV Manager
+
+//PASSWORD VIRTUAL MACHINE
+Pa$$w0rd
+
+//VISUAL STUDIO DEVELOPMENT
+community edition visual studio
+
+//ATALHOS
+ctr + k + D = identação
+ctr + k + C = comentar html
+
+//javascript
+==
+=== valor e tipo
+
+var
+- Number
+- String
+- ...
