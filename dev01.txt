@@ -31,3 +31,20 @@ var
 - Number
 - String
 - ...
+
+//
+listenners
+
+//TAG
+form
+legend
+placeholder
+optgroup
+autofocus
+autocomplete
+
+funcionamento nativo
+
+reg expressions
+
+
